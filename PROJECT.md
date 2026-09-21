@@ -7,4 +7,4 @@ TBD
 Finding an open study space on campus takes more time than it should.
 
 ## Target User
-TBD
+College students at Texas State
