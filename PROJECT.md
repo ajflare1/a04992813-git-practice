@@ -4,7 +4,7 @@
 TBD
 
 ## Problem to Solve
-TBD
+Finding an open study space on campus takes more time than it should.
 
 ## Target User
 TBD
